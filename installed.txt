@@ -1,0 +1,5 @@
+com.intellij.plugins.vscodekeymap
+com.mallowigi
+com.markskelton.one-dark-theme
+com.vermouthx.idea
+lermitage.intellij.extra.icons
